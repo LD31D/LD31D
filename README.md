@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Projects In Development
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LD31D&repo=teaching_bot&theme=radical)](https://github.com/LD31D/teaching_bot)
+
+---
