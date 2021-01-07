@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## Projects In Development
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LD31D&repo=teaching_bot&theme=radical)](https://github.com/LD31D/teaching_bot)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LD31D&repo=SMSBomber&theme=radical)](https://github.com/LD31D/SMSBomber)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LD31D&repo=planfix_py&theme=radical)](https://github.com/LD31D/planfix_py)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LD31D&repo=django_blog&theme=radical)](https://github.com/LD31D/django_blog)
   
