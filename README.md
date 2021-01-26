@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LD31D&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 ## Projects In Development
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LD31D&repo=teaching_bot&theme=radical)](https://github.com/LD31D/teaching_bot)
