@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LD31D&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-***
+---
 
 ## Projects In Development
   
@@ -28,5 +28,5 @@ Here are some ideas to get you started:
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LD31D&repo=planfix_py&theme=radical)](https://github.com/LD31D/planfix_py)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LD31D&repo=django_blog&theme=radical)](https://github.com/LD31D/django_blog)
 
-***
+---
   
